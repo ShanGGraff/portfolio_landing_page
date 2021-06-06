@@ -27,3 +27,9 @@ p {
 .kids {
   color: crimson;
 }
+
+.custom_image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+}
