@@ -1,0 +1,12 @@
+img {
+  border-radius: 8px;
+  /* max-height: 5%; */
+  max-width: 100%;
+}
+
+.sidemenu {
+  width: 25%;
+  float: left;
+  border: 2px solid black;
+  
+}
