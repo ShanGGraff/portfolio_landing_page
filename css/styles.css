@@ -10,3 +10,8 @@ img {
   border: 2px solid black;
   
 }
+
+.column {
+  width: 75%;
+  float: left;
+}
