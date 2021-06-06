@@ -2,6 +2,7 @@ img {
   border-radius: 8px;
   /* max-height: 5%; */
   max-width: 100%;
+
 }
 
 .sidemenu {
@@ -14,4 +15,9 @@ img {
 .column {
   width: 75%;
   float: right;
+}
+
+p {
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
