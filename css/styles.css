@@ -6,8 +6,10 @@ img {
 }
 
 .sidemenu {
+  margin: 12px;
   width: 25%;
   float: left;
+  padding: 4px;
   border: 2px solid black;
   
 }
@@ -20,4 +22,8 @@ img {
 p {
   font-size: 14px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kids {
+  color: crimson;
 }
