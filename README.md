@@ -13,11 +13,11 @@
 
 ## Description
 
-This is a basic website that contains someback ground information about me and some links to my Git Hub projects. 
+This is a basic website that contains some background information about me and some links to my Git Hub projects. 
 
 ## Setup/Installation Requirements
 
-* Clone repository to directory of your choice using git clone https://github.com/ShanGGraff/portfolio_landing_page--
+* Clone repository to directory of your choice using git clone https://github.com/ShanGGraff/portfolio_landing_page
 * Fork website from https://github.com/ShanGGraff/portfolio_landing_page
 
 ## Known Bugs
@@ -32,5 +32,5 @@ Copyright (c) 2021 Shane Graff
 
 ## Contact Information
 Shane Graff <copellius@gmail.com>
-Github page: github.com/ShanGGraff
-GH-Pages: To be added
+Github page: https://github.com/ShanGGraff
+GH-Pages: https://shanggraff.github.io/portfolio_landing_page
